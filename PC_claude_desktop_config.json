@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "my-mcp-server": {
+      "command": "C:\\Users\\benjo\\mcp-video-editing-assistant\\venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\benjo\\mcp-video-editing-assistant\\server.py"]
+    },
+    "enhanced-mcp-server": {
+      "command": "C:\\Users\\benjo\\mcp-video-editing-assistant\\venv\\Scripts\\python.exe", 
+      "args": ["C:\\Users\\benjo\\mcp-video-editing-assistant\\enhanced_server.py"]
+    }
+  }
+}

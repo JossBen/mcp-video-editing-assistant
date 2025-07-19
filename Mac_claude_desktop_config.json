@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "my-mcp-server": {
+      "command": "/Users/benjoss/Desktop/code/mcp/venv/bin/python",
+      "args": ["/Users/benjoss/Desktop/code/mcp/server.py"]
+    },
+    "enhanced-mcp-server": {
+      "command": "/Users/benjoss/Desktop/code/mcp/venv/bin/python", 
+      "args": ["/Users/benjoss/Desktop/code/mcp/enhanced_server.py"]
+    }
+  }
+}
