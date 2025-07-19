@@ -1,0 +1,5 @@
+mcp>=1.0.0
+watchdog>=3.0.0
+xmltodict>=0.13.0
+opencv-python>=4.8.0
+ffmpeg-python>=0.2.0

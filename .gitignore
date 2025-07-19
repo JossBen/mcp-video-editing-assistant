@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editing Data
+editing_patterns.json
+resolve_editing_patterns.json
+*.log
+
+# Media Files (add to .gitignore as they're large)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+*.wmv
+*.flv
+*.webm
+*.wav
+*.mp3
+*.aiff
+*.flac
+*.m4a
+
+# Project Files (potentially sensitive)
+*.prproj
+*.fcpxml
+*.avp
+*.drp
+*.braw
+*.r3d
+
+# Temporary Files
+*.tmp
+*.temp
+*.cache
+.cache/
+
+# Configuration (may contain sensitive paths)
+config.json
+settings.json
+
+# Claude Desktop Config (contains local paths)
+claude_desktop_config*.json
+!claude_desktop_config_example.json
